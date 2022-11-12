@@ -1,0 +1,15 @@
+div p {
+  background-image: url("./ЗЛАТА.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+body {
+  font-size: 10px;
+  letter-spacing: 0.01em;
+  background-color: black;
+  line-height: 0.5;
+}
